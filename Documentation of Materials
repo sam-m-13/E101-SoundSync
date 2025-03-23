@@ -1,0 +1,26 @@
+Language: Arduino and Circuit Python
+
+Library: https://docs.arduino.cc/libraries/arduinosound/
+
+Documentation for current Library programming: 
+https://docs.arduino.cc/libraries/arduinosound/
+
+Documentation for current materials programming: 
+Microcontroller: 
+https://wiki.seeedstudio.com/Seeeduino-XIAO/
+https://wiki.seeedstudio.com/Seeeduino-XIAO-CircuitPython/
+https://tinygo.org/docs/reference/microcontrollers/xiao/
+Microphone breakout board: 
+https://lastminuteengineers.com/max4466-arduino-tutorial/
+Motor:
+https://nfpshop.com/wp-content/uploads/2024/06/3V-11K-SPEC-NFP-C1027-20240522.pdf
+
+Documentation for circuitry and abstract programming:
+Battery:
+https://www.pkcellpower.com/news/exploring-the-cr2032-battery-a-complete-guide/
+https://docs.cirkitdesigner.com/component/7a587472-57db-0a26-2162-c228272f3675
+Microcontroller:
+https://wiki.seeedstudio.com/Seeeduino-XIAO/#hardware-overview
+https://wiki.seeedstudio.com/Seeeduino-XIAO/#specification
+Microphone breakout board:
+https://cdn-shop.adafruit.com/datasheets/CMA-4544PF-W.pdf
