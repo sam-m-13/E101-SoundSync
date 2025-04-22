@@ -26,6 +26,7 @@ void loop () {
 
   // If any listeners detect their sounds, triggered will be set to TRUE.
   if (Listener::triggered) {
+    Serial.println("Sound detected, activating motor.");
     digitalWrite(motorPin, HIGH); // Turn the vibration motor on.
     delay(1000);                  // Wait one second.
     digitalWrite(motorPin, LOW);  // Turn the vibration motor off.
