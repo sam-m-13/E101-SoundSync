@@ -39,7 +39,7 @@ void Listener::tick(unsigned int sample) {
     range = micMax - micMin;              // Update range with collected microphone data values.
     double volts = (range * 5.0) / 1024;  // Convert this range to the average voltage across the microphone during the loop.
 
-    Serial.println(volts);                // Display this voltage to the consol.
+    //Serial.println(volts);                // Display this voltage to the consol.
 
     // Check if the detected voltage is within the listener's range for detection.
     // This would ideally be scaled to measure pitch and other aspects of sounds for more detailed detection.
